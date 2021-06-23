@@ -7,7 +7,7 @@
   ## Description
   
   this application is used to track workouts by exercise and stores this information to mongoDB.
-  [screenshot](https://github.com/davidsackett14/fitnessTracker/blob/main/Web%20capture_23-6-2021_9308_localhost.jpeg)
+  ![screenshot](https://github.com/davidsackett14/fitnessTracker/blob/main/Web%20capture_23-6-2021_9308_localhost.jpeg)
   
   
   ## Table of Contents (Optional)
